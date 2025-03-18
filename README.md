@@ -17,4 +17,4 @@ Esta es una aplicación sencilla creada con HTML, CSS y JavaScript que permite r
 ## Cómo correr este proyecto
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/rpaiva01/Challenge-Amigo-Secreto.git
